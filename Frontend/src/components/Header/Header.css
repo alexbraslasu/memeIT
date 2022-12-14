@@ -1,0 +1,793 @@
+@media screen and (max-width: 770px) {
+  .Logo {
+    position: absolute;
+    width: 10%;
+    height: 5%;
+    left: 5%;
+    top: 0%;
+  }
+}
+
+.Login {
+position: absolute;
+right: 3%;
+top: 0%;
+bottom: 0%;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 300;
+font-size: 110%;
+line-height: 100%;
+color: #06114F;
+}
+
+.Creare {
+position: absolute;
+right: 20%;
+top: 0%; 
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 300;
+font-size: 110%;
+line-height: 100%;   
+color: #06114F;
+}
+
+.Back {
+position: absolute;
+width: 100%;
+height: 70%;
+left: 0%;
+top: 120%;
+bottom: 0%;
+background-color: rgba(111, 48, 150, 1);
+}
+
+.Pic {
+position: relative;
+width: 50%;
+height: 10%;
+left: 50%;
+top: 10000%;
+}
+
+.buton {
+position: absolute;
+height: 10%;
+width: 20%;
+left: 22%;
+top: 70%;
+border-radius: 10%;
+position: absolute;
+background: #6F3096;
+border-radius: 5px;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+
+.text {
+  position: absolute;
+  width: 40%;
+  height: 50%;
+  left: 12%;
+  top: 40%;
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 43px;
+  line-height: 121.1%;
+  text-align: center;
+  color: #252F65;
+}
+
+.subtitlu{
+  position: absolute;
+  width: 30%;
+  height: 20%;
+  left: 17%;
+  top: 57%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #252F65;
+}
+
+.ask {
+  position: absolute;
+  width: 30%;
+  height: 10%;
+  left: 15%;
+  top: 20%;
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 121.1%;
+  color: #252F65;  
+}
+
+.cer {
+position: absolute;
+width: 20%;
+height: 10%;
+left: 15%;
+top: 50%;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 121.1%;
+color: #252F65;
+}
+
+.desc {
+position: absolute;
+width: 10%;
+height: 10%;
+left: 50%;
+top: 15%;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #06114F;
+}
+
+@media screen and (max-width: 1300px) {
+  .text {
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    left: 12%;
+    top: 40%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 121.1%;
+    text-align: center;
+    color: #252F65;
+  }
+  .subtitlu{
+    position: absolute;
+    width: 50%;
+    height: 20%;
+    left: 8%;
+    top: 50%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #252F65;
+  }
+  .buton {
+    position: absolute;
+    height: 10%;
+    width: 20%; 
+    left: 22%;
+    top: 70%;
+    border-radius: 10%;
+    position: absolute;
+    background: #6F3096;
+    border-radius: 5px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    }
+}
+
+@media screen and (max-width: 1000px) {
+  .ask {
+    position: absolute;
+    width: 30%;
+    height: 10%;
+    left: 15%;
+    top: 20%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 121.1%;
+    color: #252F65;  
+  }
+  
+  .cer {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  left: 15%;
+  top: 50%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 121.1%;
+  color: #252F65;
+  }
+}
+
+@media screen and (max-width: 562px) {
+  .text {
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    left: 12%;
+    top: 25%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 121.1%;
+    text-align: center;
+    color: #252F65;
+  }
+  .subtitlu{
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    left: 13%;
+    top: 33%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 23px;
+    text-align: center;
+    color: #252F65;
+  }
+  .buton {
+    position: absolute;
+    height: 9%;
+    width: 25%;
+    left: 25%;
+    top: 50%;
+    border-radius: 10%;
+    position: absolute;
+    background: #6F3096;
+    border-radius: 5px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 25px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    }
+    .Back {
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    left: 0%;
+    top: 90%;
+    bottom: 0%;
+    background-color: rgba(111, 48, 150, 1);
+    }
+}
+
+@media screen and (max-width: 319px) {
+  .text {
+    position: absolute;
+    width: 50%;
+    height: 10%;
+    left: 25%;
+    top: 10%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 121.1%;
+    text-align: center;
+    color: #252F65;
+  }
+  .subtitlu{
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    left: 30%;
+    top: 15%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 23px;
+    text-align: center;
+    color: #252F65;
+  }
+  .buton {
+    position: absolute;
+    height: 9%;
+    width: 25%;
+    left: 25%;
+    top: 50%;
+    border-radius: 10%;
+    position: absolute;
+    background: #6F3096;
+    border-radius: 5px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 25px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    }
+    .Pic {
+    position: absolute;
+    width: 70%;
+    height: 30%;
+    left: 20%;
+    top: 30%;
+    }
+}
+
+@media screen and (max-width: 319px) {
+  .text {
+    position: absolute;
+    width: 70%;
+    height: 10%;
+    left: 15%;
+    top: 15%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 9px;
+    line-height: 121.1%;
+    text-align: center;
+    color: #252F65;
+  }
+  .subtitlu{
+    position: absolute;
+    width: 60%;
+    height: 10%;
+    left: 20%;
+    top: 20%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 9px;
+    line-height: 23px;
+    text-align: center;
+    color: #252F65;
+  }
+  .buton {
+    position: absolute;
+    height: 5%;
+    width: 40%;
+    left: 35%;
+    top: 40%;
+    border-radius: 10%;
+    position: absolute;
+    background: #6F3096;
+    border-radius: 5px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 5px;
+    line-height: 25px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    }
+    .Pic {
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    left: 6%;
+    top: 45%;
+    }
+}
+
+@media screen and (max-width: 130px) {
+  .text {
+    position: absolute;
+    width: 70%;
+    height: 10%;
+    left: 10%;
+    top: 15%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 8px;
+    line-height: 121.1%;
+    text-align: center;
+    color: #252F65;
+  }
+  .subtitlu{
+    position: absolute;
+    width: 60%;
+    height: 10%;
+    left: 20%;
+    top: 17%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 23px;
+    text-align: center;
+    color: #252F65;
+  }
+  .buton {
+    position: absolute;
+    height: 5%;
+    width: 40%;
+    left: 35%;
+    top: 40%;
+    border-radius: 10%;
+    position: absolute;
+    background: #6F3096;
+    border-radius: 5px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4px;
+    line-height: 25px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    }
+    .Pic {
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    left: 6%;
+    top: 45%;
+    }
+}
+
+.Box {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 73%;
+  width: 80%;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 1%;
+}
+
+.BoxDesc {
+  position: absolute;
+  top: 23%;
+  left: 50%;
+  height: 10%;
+  width: 20%;
+  box-shadow: 0 3px 10px black;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 3%;
+}
+
+.scris {
+position: absolute;
+width: 10%;
+height: 10%;
+left: 10%;
+top: 20%;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: rgba(6, 17, 79, 0.3);
+}
+
+.mem {
+position: absolute;
+width: 40%;
+height: 10%;
+left: 50%;
+top: 38%;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #06114F;
+}
+
+.BoxDragdrop {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 35%;
+  width: 20%;
+  box-shadow: 0 3px 10px black;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 3%;
+}
+
+.drag {
+  position: absolute;
+  width: 95%;
+  height: 10%;
+  left: 5%;
+  top: 20%;
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgba(6, 17, 79, 0.3);
+}
+
+.send {
+  position: absolute;
+  height: 10%;
+  width: 30%;
+  left: 50%;
+  top: 88%;
+  bottom: 0%;
+  background: rgba(111, 48, 150, 1);
+  color: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  .ask {
+    position: absolute;
+    width: 35%;
+    height: 10%;
+    left: 10%;
+    top: 20%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 121.1%;
+    color: #252F65;  
+  }
+  
+  .cer {
+  position: absolute;
+  width: 35%;
+  height: 10%;
+  left: 10%;
+  top: 50%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 121.1%;
+  color: #252F65;
+  }
+
+  .BoxDesc {
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    height: 10%;
+    width: 40%;
+    box-shadow: 0 3px 10px black;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 3%;
+  }
+
+  .BoxDragdrop {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 35%;
+    width: 40%;
+    box-shadow: 0 3px 10px black;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 3%;
+  }
+}
+
+.title {
+position: absolute;
+width: 40%;
+height: 10%;
+left: 0%;
+top: 200%;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+color: #252F65;
+}
+
+.img1 {
+  position: absolute;
+  width: 25%;
+  height: 45%;
+  top: 215%;
+  left: 0%;
+  border-radius: 55px;
+}
+
+.img2 {
+  position: absolute;
+  width: 25%;
+  height: 45%;
+  top: 215%;
+  left: 35%;
+  border-radius: 55px;
+}
+
+.img3 {
+  position: absolute;
+  width: 25%;
+  height: 45%;
+  top: 215%;
+  left: 70%;
+  border-radius: 55px;
+}
+
+.Backblue {
+  position: absolute;
+  width: 100%;
+  height: 25%;
+  left: 0%;
+  top: 270%;
+  bottom: 0%;
+  background-color: rgba(6, 17, 79, 1);
+}
+
+.insta {
+  position: absolute;
+  left: 45%;
+  top: 30%;
+}
+
+@media screen and (min-width: 700px) {
+  .mess {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+  }
+  .twitter {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .insta {
+    width: 2%;
+    height: 9%;
+    position: absolute;
+    left: 45%;
+    top: 30%;
+  }
+
+  .twitter {
+    width: 2%;
+    height: 9%;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+  }
+
+  .facebook {
+    width: 2%;
+    height: 9%;
+    position: absolute;
+    left: 55%;
+    top: 30%;
+  }
+
+  .title {
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    left: 0%;
+    top: 165%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 45px;
+    text-align: center;
+    color: #252F65;
+    }
+
+  .img1 {
+    position: absolute;
+    width: 25%;
+    height: 30%;
+    top: 180%;
+    left: 0%;
+    border-radius: 55px;
+  }
+  
+  .img2 {
+    position: absolute;
+    width: 25%;
+    height: 30%;
+    top: 180%;
+    left: 35%;
+    border-radius: 55px;
+  }
+  
+  .img3 {
+    position: absolute;
+    width: 25%;
+    height: 30%;
+    top: 180%;
+    left: 70%;
+    border-radius: 55px;
+  }
+
+  .Backblue {
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    left: 0%;
+    top: 220%;
+    bottom: 0%;
+    background-color: rgba(6, 17, 79, 1);
+  }
+
+  .footer {
+    position: absolute;
+    width: 50%;
+    height: 10%;
+    left: 27%;
+    top: 50%;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 121.1%;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    }
+
+  .mess {
+    display: none;
+  }
+}
+
+.facebook {
+  position: absolute;
+  left: 55%;
+  top: 30%;
+}
+.footer {
+position: absolute;
+width: 50%;
+height: 10%;
+left: 27%;
+top: 50%;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 121.1%;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+
+@media screen and (max-width: 886px) {
+  .Back {
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    left: 0%;
+    top: 90%;
+    bottom: 0%;
+    background-color: rgba(111, 48, 150, 1);
+  }
+}
+
+.Window1 {
+position: absolute;
+width: 30px;
+height: 20px;
+left: 0px;
+top: 66px;
+background: #6F3096;
+}

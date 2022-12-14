@@ -1,0 +1,25 @@
+.Logo {
+    position: relative;
+    width: 10%;
+    height: 1%;
+    left: 88%;
+}
+
+@media screen and (max-width: 575px) {
+    .Logo {
+      position: relative;
+      width: 10%;
+      height: 1%;
+      left: 5%;
+      top: 0%;
+    }
+  }
+
+.Window2 {
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  left: 10%px;
+  top: 10%;
+  background: #6F3096;
+}
